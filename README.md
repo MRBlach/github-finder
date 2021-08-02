@@ -43,7 +43,7 @@ Responsive design and mobile first approach allow for ease of access across devi
 
 <img src="https://github.com/MRBlach/github-finder/blob/main/images/viewports.png?raw=true">
 
-Here is a working live demonstration: https://mrblach.github.io/github-finder/
+Here is a working live [demonstration](https://mrblach.github.io/github-finder/)
 
 ### Steps To Execute This App
 - Download the entire code
