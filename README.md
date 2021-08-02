@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
   <a href="https://github.com/MRBlach/github-finder">
-    <img src="images/appIcon.png" alt="logo.png" style="background-color: white">
+    <img src="images/appIcon.png" alt="logo.png">
   </a><br>
 Github Finder
 </h1> 
